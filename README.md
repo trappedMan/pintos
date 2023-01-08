@@ -3,7 +3,7 @@ Sogang univ OS project- pintos 1~5
 
 # Sogang Univ - Pintos Project
 
-서강대학교 운영체제 프로젝트인 Pintos 프로젝트를 저장한 repository.
+서강대학교 운영체제 프로젝트인 Pintos 프로젝트를 저장한 repository
 
 ## Project #1 : UserProg (1)
 - Argument Passing
